@@ -1,3 +1,3 @@
 name: Test Name 
 markdown: kramdown
-
+theme: jekyll-theme-slate 
