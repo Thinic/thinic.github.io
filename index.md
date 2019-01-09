@@ -8,7 +8,7 @@ description: My Homepage
 
 Hello, this is a test. 
 
-I am currently trying to test max widths. 
+I am currently trying to test max widths. Test 2. 
 
 ## Header 2 
 
